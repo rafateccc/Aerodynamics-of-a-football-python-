@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 #Constants
 R   = 69 / (2 * np.pi) * 1e-2   # Ball radius [m]
 D   = 2 * R                     # Ball diameter [m]
-mu  = 1.82e-5                   # Dynamic viscosity [Pa s]
+mu  = 1.82e-5                   # Dynamic viscosity [Pa*s]
 rho = 1.204                     # Air density [kg/m^3]
 
 # ── Telstar 18 drag at Sp = 0 
