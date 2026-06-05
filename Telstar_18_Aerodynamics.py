@@ -16,7 +16,7 @@ m=0.43 #Ball's mass (kg)
 
 
 #Aerodynamic variables & constants 
-mu=1.82*10**(-5) #Air viscosity in Pa/s at 20ºC
+mu=1.82*10**(-5) #Air viscosity in Pa*s at 20ºC
 rho=1.204 #Air density at 20ºC (kg/m^3)
 
 #Movement equations
