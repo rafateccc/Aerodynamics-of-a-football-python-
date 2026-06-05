@@ -1,1 +1,0 @@
-# Aerodynamics-of-a-football-python-
